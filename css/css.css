@@ -1,0 +1,35 @@
+body,html{border:0;padding:0;margin:0;background:#fff7ef;font-family:Sans-Serif;}
+table{width:100%;border-collapse:collapse;table-layout:fixed;}
+td{vertical-align:top;}#topContainer{position:relative;margin:10px;text-align:center;font-size:1.75em;}
+#leftContainer{position:relative;margin:0 10px 0 10px;height:150px;width:150px;}
+#rightContainer{position:relative;margin:10px;}#bottomContainer{position:relative;margin:10px;text-align:right;}#topDivider{border-bottom:2px solid #6B696B;}#middleDivider{border-right:2px solid #6B696B;}#bottomDivider{border-top:2px solid #6B696B;}
+li{list-style-type:none;}
+
+.gray {
+	background-color: gray;
+	height: 25px;
+	width: 350px;
+	margin: 10px;
+}
+
+.green {
+	background-color: green;
+	height: 25px;
+	width: 350px;
+	margin: 10px;
+}
+
+.right {
+	position: relative;
+	left: 850px;
+	bottom: 150px;
+	width: 250px;
+	height: 150px;
+	text-align: center;
+	
+}
+
+.button {
+	height: 75px;
+	width: 75px;
+}
